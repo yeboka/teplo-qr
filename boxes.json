@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "ТРЦ \"Dostyk plaza\"",
+    "address": "Самал 2, 111",
+    "description": "Бокс находится на -1 этаже, спуск по эскалатору со стороны гипермаркета Galmart",
+    "img_url": "dostyk_plaza_image"
+  },
+  {
+    "id": 2,
+    "name": "MAGNUM на Гагарина",
+    "address": "Ул. Гагарина",
+    "description": "Бокс установлен у главного входа близ зоны с тележками",
+    "img_url": "magnum_gagarina_image"
+  },
+  {
+    "id": 3,
+    "name": "ТРЦ \"MEGA PARK\"",
+    "address": "Ул. Макатаева 127/1",
+    "description": "Бокс установлен на -1 этаже , в проходе, который ведет в зону паркинга",
+    "img_url": "mega_park_image"
+  },
+  {
+    "id": 4,
+    "name": "ТРЦ \"MEGA ALMA-ATA\"",
+    "address": "Ул. Розыбакиева 247а",
+    "description": "Бокс расположен в \"старой Мега\", 1 этаж, напротив магазина \"Унция\"",
+    "img_url": "mega_alma_ata_image"
+  },
+  {
+    "id": 5,
+    "name": "SPUTNIK MALL",
+    "address": "Мамыр 1, 8 а",
+    "description": "Бокс установлен на улице перед входом",
+    "img_url": "sputnik_mall_image"
+  },
+  {
+    "id": 8,
+    "name": "ТРЦ \"FORUM\"",
+    "address": "Пр-кт Сейфуллина, 617",
+    "description": "Бокс установлен на уровне Р1, около цветных погрузочных лифтов",
+    "img_url": "forum_image"
+  },
+  {
+    "id": 9,
+    "name": "ESENTAI MALL",
+    "address": "Аль-фараби 77/10",
+    "description": "Бокс установлен в уличной зоне напротив Starbucks",
+    "img_url": "esentai_mall_image"
+  },
+  {
+    "id": 10,
+    "name": "ALMATY MALL",
+    "address": "Ул. Жандосова, 83/микрорайон Куаныш, 11в/28",
+    "img_url": "almaty_mall_image"
+  },
+  {
+    "id": 6,
+    "name": "LAMODA",
+    "address": "Пр-кт Абая 10 пр-кт",
+    "img_url": "lamoda_image"
+  },
+  {
+    "id": 7,
+    "name": "LAMODA 2",
+    "address": "Сейфуллина 460",
+    "img_url": "lamoda2_image"
+  },
+  {
+    "id": 11,
+    "name": "Globus",
+    "address": "Проспект Абая, 109в",
+    "img_url": "globus_image"
+  },
+  {
+    "id": 12,
+    "name": "Magnum Cash&Carry",
+    "address": "ул.Радостовца, 292",
+    "img_url": "magnum_cash_carry_image"
+  },
+  {
+    "id": 13,
+    "name": "ATAKENT MALL",
+    "address": "ул. Тимирязева, 42 к 3",
+    "img_url": "atakent_mall_image"
+  },
+  {
+    "id": 14,
+    "name": "RIVERHALL",
+    "address": "Микрорайон Коктем-2,11/3",
+    "img_url": "riverhall_image"
+  },
+  {
+    "id": 15,
+    "name": "ТРЦ MOSKVA",
+    "address": "8-микрорайон 37/1",
+    "img_url": "trc_moskva_image"
+  }
+]
