@@ -10,8 +10,7 @@
     "id": 2,
     "name": "MAGNUM на Гагарина",
     "address": "Ул. Гагарина",
-    "description": "Бокс установлен у главного входа близ зоны с тележками",
-    "img_url": "magnum_gagarina_image"
+    "description": "Бокс установлен у главного входа близ зоны с тележками"
   },
   {
     "id": 3,
@@ -57,14 +56,12 @@
   {
     "id": 6,
     "name": "LAMODA",
-    "address": "Пр-кт Абая 10 пр-кт",
-    "img_url": "lamoda_image"
+    "address": "Пр-кт Абая 10 пр-кт"
   },
   {
     "id": 7,
     "name": "LAMODA 2",
-    "address": "Сейфуллина 460",
-    "img_url": "lamoda2_image"
+    "address": "Сейфуллина 460"
   },
   {
     "id": 11,
@@ -75,8 +72,7 @@
   {
     "id": 12,
     "name": "Magnum Cash&Carry",
-    "address": "ул.Радостовца, 292",
-    "img_url": "magnum_cash_carry_image"
+    "address": "ул.Радостовца, 292"
   },
   {
     "id": 13,
